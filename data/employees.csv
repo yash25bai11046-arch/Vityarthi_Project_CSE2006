@@ -1,0 +1,151 @@
+EmpID,Name,Department,DailyRate
+EMP-101,Aarav Sharma,Engineering,350.0
+EMP-102,Priya Patel,Quality Assurance,280.0
+EMP-103,Rohan Verma,Operations,250.0
+EMP-104,Sneha Iyer,Human Resources,300.0
+EMP-105,Vikram Malhotra,Engineering,360.0
+EMP-106,Ananya Roy,Finance,320.0
+EMP-107,Karan Singhania,Marketing,270.0
+EMP-108,Divya Nair,Operations,260.0
+EMP-109,Aditya Chopra,Engineering,340.0
+EMP-110,Meera Joshi,Quality Assurance,290.0
+EMP-111,Siddharth Das,Finance,310.0
+EMP-112,Neha Kulkarni,Human Resources,295.0
+EMP-113,Varun Bajaj,Marketing,280.0
+EMP-114,Pooja Hegde,Engineering,370.0
+EMP-115,Manish Pandey,Operations,240.0
+EMP-116,Ishita Sen,Quality Assurance,285.0
+EMP-117,Gautam Gambhir,Finance,330.0
+EMP-118,Rhea Kapoor,Human Resources,305.0
+EMP-119,Arjun Rampal,Engineering,355.0
+EMP-120,Kavita Krishnamurthy,Marketing,275.0
+EMP-121,Naveen Polishetty,Operations,255.0
+EMP-122,Shreya Ghoshal,Finance,340.0
+EMP-123,Harsh Vardhan,Quality Assurance,290.0
+EMP-124,Tanvi Shah,Human Resources,290.0
+EMP-125,Rajesh Khanna,Engineering,380.0
+EMP-126,Sunidhi Chauhan,Marketing,285.0
+EMP-127,Abhay Deol,Operations,265.0
+EMP-128,Bhavna Pandey,Quality Assurance,275.0
+EMP-129,Chetan Bhagat,Finance,315.0
+EMP-130,Deepika Padukone,Engineering,390.0
+EMP-131,Farhan Akhtar,Marketing,300.0
+EMP-132,Geeta Phogat,Operations,250.0
+EMP-133,Hemant Soren,Finance,325.0
+EMP-134,Indira Banerjee,Human Resources,310.0
+EMP-135,Jasprit Bumrah,Engineering,365.0
+EMP-136,Kunal Kemmu,Operations,260.0
+EMP-137,Lata Mangeshkar,Finance,350.0
+EMP-138,Manoj Bajpayee,Quality Assurance,295.0
+EMP-139,Nandita Das,Human Resources,300.0
+EMP-140,Om Puri,Marketing,290.0
+EMP-141,Pratik Gandhi,Engineering,345.0
+EMP-142,Radhika Apte,Quality Assurance,305.0
+EMP-143,Sachin Tendulkar,Finance,380.0
+EMP-144,Tabu Hashmi,Human Resources,320.0
+EMP-145,Uday Chopra,Operations,230.0
+EMP-146,Vidya Balan,Marketing,310.0
+EMP-147,Wamiqa Gabbi,Quality Assurance,280.0
+EMP-148,Yuvraj Singh,Engineering,360.0
+EMP-149,Zakir Khan,Operations,270.0
+EMP-150,Alia Bhatt,Finance,335.0
+EMP-151,Amitabh Bachchan,Engineering,400.0
+EMP-152,Anushka Sharma,Marketing,310.0
+EMP-153,Ayushmann Khurrana,Quality Assurance,295.0
+EMP-154,Boman Irani,Human Resources,325.0
+EMP-155,Disha Patani,Operations,245.0
+EMP-156,Diljit Dosanjh,Marketing,290.0
+EMP-157,Emraan Hashmi,Finance,315.0
+EMP-158,Fatima Sana Shaikh,Engineering,330.0
+EMP-159,Govinda Ahuja,Operations,255.0
+EMP-160,Hritik Roshan,Engineering,385.0
+EMP-161,Ileana D Cruz,Quality Assurance,275.0
+EMP-162,Irrfan Khan,Human Resources,340.0
+EMP-163,Jacqueline Fernandez,Marketing,280.0
+EMP-164,John Abraham,Operations,270.0
+EMP-165,Kareena Kapoor,Finance,350.0
+EMP-166,Katrina Kaif,Marketing,320.0
+EMP-167,Kiara Advani,Quality Assurance,285.0
+EMP-168,Madhuri Dixit,Human Resources,360.0
+EMP-169,Nawazuddin Siddiqui,Engineering,375.0
+EMP-170,Pankaj Tripathi,Operations,290.0
+EMP-171,Parineeti Chopra,Finance,305.0
+EMP-172,Ranbir Kapoor,Engineering,390.0
+EMP-173,Ranveer Singh,Marketing,340.0
+EMP-174,Rani Mukerji,Human Resources,330.0
+EMP-175,Saif Ali Khan,Finance,360.0
+EMP-176,Shahid Kapoor,Engineering,350.0
+EMP-177,Shah Rukh Khan,Operations,395.0
+EMP-178,Shraddha Kapoor,Quality Assurance,290.0
+EMP-179,Sidharth Malhotra,Marketing,300.0
+EMP-180,Sonam Kapoor,Human Resources,285.0
+EMP-181,Suniel Shetty,Operations,260.0
+EMP-182,Taapsee Pannu,Quality Assurance,310.0
+EMP-183,Tiger Shroff,Engineering,325.0
+EMP-184,Varun Dhawan,Marketing,295.0
+EMP-185,Vicky Kaushal,Finance,345.0
+EMP-186,Vijay Sethupathi,Engineering,370.0
+EMP-187,Allu Arjun,Operations,335.0
+EMP-188,Prabhas Raju,Engineering,380.0
+EMP-189,Ram Charan,Finance,355.0
+EMP-190,Mahesh Babu,Marketing,360.0
+EMP-191,Dhanush Raja,Quality Assurance,320.0
+EMP-192,Suriya Sivakumar,Human Resources,340.0
+EMP-193,Dulquer Salmaan,Operations,280.0
+EMP-194,Fahadh Faasil,Engineering,365.0
+EMP-195,Karthi Sivakumar,Finance,310.0
+EMP-196,Nani Ghanta,Marketing,295.0
+EMP-197,Rishab Shetty,Operations,275.0
+EMP-198,Yash Gowda,Engineering,390.0
+EMP-199,Samantha Ruth,Quality Assurance,315.0
+EMP-200,Nayanthara Kurian,Human Resources,370.0
+EMP-201,Rashmika Mandanna,Marketing,305.0
+EMP-202,Keerthy Suresh,Finance,295.0
+EMP-203,Sai Pallavi,Quality Assurance,330.0
+EMP-204,Trisha Krishnan,Human Resources,320.0
+EMP-205,Tamannaah Bhatia,Operations,270.0
+EMP-206,Kajal Aggarwal,Marketing,285.0
+EMP-207,Anushka Shetty,Engineering,360.0
+EMP-208,Vijay Deverakonda,Finance,325.0
+EMP-209,Siva Karthikeyan,Operations,280.0
+EMP-210,Arya Sekar,Quality Assurance,290.0
+EMP-211,Jayaram Subramaniam,Human Resources,310.0
+EMP-212,Mohanlal Viswanathan,Engineering,410.0
+EMP-213,Mammootty Ismail,Finance,410.0
+EMP-214,Tovino Thomas,Operations,295.0
+EMP-215,Prithviraj Sukumaran,Marketing,350.0
+EMP-216,Nivin Pauly,Quality Assurance,280.0
+EMP-217,Asif Ali,Human Resources,270.0
+EMP-218,Joju George,Operations,285.0
+EMP-219,Biju Menon,Finance,300.0
+EMP-220,Soubin Shahir,Engineering,310.0
+EMP-221,Suraj Venjaramoodu,Quality Assurance,290.0
+EMP-222,Aishwarya Rai,Human Resources,390.0
+EMP-223,Sushmita Sen,Marketing,360.0
+EMP-224,Preity Zinta,Finance,340.0
+EMP-225,Karisma Kapoor,Operations,320.0
+EMP-226,Juhi Chawla,Quality Assurance,330.0
+EMP-227,Raveena Tandon,Engineering,325.0
+EMP-228,Shilpa Shetty,Marketing,310.0
+EMP-229,Bipasha Basu,Operations,295.0
+EMP-230,Lara Dutta,Human Resources,305.0
+EMP-231,Dia Mirza,Finance,290.0
+EMP-232,Amrita Rao,Quality Assurance,270.0
+EMP-233,Genelia D Souza,Marketing,280.0
+EMP-234,Asin Thottumkal,Engineering,335.0
+EMP-235,Ileana Barreto,Operations,265.0
+EMP-236,Chitrangada Singh,Finance,315.0
+EMP-237,Huma Qureshi,Human Resources,300.0
+EMP-238,Richa Chadha,Quality Assurance,295.0
+EMP-239,Kalki Koechlin,Marketing,310.0
+EMP-240,Konkona Sen,Engineering,360.0
+EMP-241,Swara Bhasker,Operations,260.0
+EMP-242,Radhika Madan,Quality Assurance,280.0
+EMP-243,Sanya Malhotra,Finance,305.0
+EMP-244,Mrunal Thakur,Marketing,315.0
+EMP-245,Tripti Dimri,Engineering,330.0
+EMP-246,Sharvari Wagh,Operations,275.0
+EMP-247,Alaya Furniturewalla,Human Resources,285.0
+EMP-248,Palak Tiwari,Quality Assurance,260.0
+EMP-249,Shanaya Kapoor,Marketing,270.0
+EMP-250,Khushi Kapoor,Finance,290.0
