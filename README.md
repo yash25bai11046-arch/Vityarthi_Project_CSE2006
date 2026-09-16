@@ -116,3 +116,10 @@ Once launched, navigate through the interactive menu options:
 - Option 5 (Appraisal & Critical Retention): Displays top performers recommended for 8-15% bonus increments and critical attrition candidates (< 18 days attendance) with mandatory HR intervention steps.
 - Option 6 (Export Audit Report): Generate `payroll_audit_report.txt` in the root directory for auditing.
 - Option 7 (Exit): Closes the program cleanly.
+
+---
+
+## Documentation
+
+- Detailed report available in docs/Project_Report_CSE2006.pdf.
+- Formal statement available in statement.md.
