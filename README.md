@@ -33,13 +33,15 @@ The Employee Attendance & Automated Payroll Management System is a command-line 
 ## Steps to Install & Run the Project
 
 1. Clone the Repository
-
+``` text
 git clone <https://github.com/yash25bai11046-arch/vityarthi_Project_CSE2006.git>
-
+```
+``` text
 cd vityarthi_Project_CSE2006
+```
 
 2. Verify Directory Structure
-Plaintext
+``` text
 vityarthi_Project_CSE2006/
 ├── data/
 │   ├── employees.csv
@@ -50,12 +52,17 @@ vityarthi_Project_CSE2006/
 ├── README.md
 ├── statement.md
 └── .gitignore
+```
+
 3. Compile the Source Code
-Bash
+``` text
 javac Main.java
+```
+
 4. Execute the Application
-Bash
+``` text
 java Main
+```
 
 ## Instructions for Testing
 
