@@ -107,7 +107,8 @@ class CsvDataService {
         List<String[]> rows = new ArrayList<>();
         try {
             try (BufferedReader br = new BufferedReader(new FileReader(file))) {
-                String line = br.readLine(); 
+                br.readLine();
+                String line; 
                 while ((line = br.readLine()) != null) {
                     line = line.trim();
                     if (line.isEmpty() || line.startsWith("EmpID")) continue;
