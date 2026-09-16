@@ -37,6 +37,7 @@ The Employee Attendance & Automated Payroll Management System is a command-line 
 git clone <https://github.com/yash25bai11046-arch/vityarthi_Project_CSE2006.git>
 
 cd vityarthi_Project_CSE2006
+
 2. Verify Directory Structure
 Plaintext
 vityarthi_Project_CSE2006/
