@@ -85,3 +85,7 @@ Option 7 (Exit): Safely exits the command-line interface.
 ## Screenshots
 
 Complete terminal execution outputs, console interactive menus, and system architecture diagrams are documented in docs/Project_Report_CSE2006.pdf.
+
+The CLI Dashboard of the Code :
+
+<img width="662" height="355" alt="image" src="https://github.com/user-attachments/assets/25c3948b-4cbc-4aa7-b107-e9c5eba52470" />
